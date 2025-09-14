@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuckMandarina
+- 👋 Hi, I’m @LuckMonge
 - 👀 I’m interested in code
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to learn anything usefull
